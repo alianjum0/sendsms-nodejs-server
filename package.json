@@ -1,0 +1,10 @@
+{
+  "name": "SendsmsServer",
+  "version": "0.0.1",
+  "description": "SendsmsServer application server. sendsms is a react native mobile application to send sms from computer using websockets.. It connect to nodejs server on same internet connection at port 3000.",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "ws": "^2.2.1"
+  }
+}
